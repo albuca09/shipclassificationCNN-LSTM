@@ -28,7 +28,7 @@ ship-classification/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/ship-classification.git
+   git clone https://github.com/albuca09/shipclassificationCNN-LSTM/tree/main/ship-classification
    cd ship-classification
    ```
 
